@@ -105,14 +105,14 @@ layouts = [
     layout.Floating(**layout_theme)
 ]
 
-colors = [["#002b36", "#002b36"], # 0 BG
-          ["#dc322f", "#dc322f"], # 1 RED
-          ["#859900", "#859900"], # 2 GREEN
-          ["#b58900", "#b58900"], # 3 YELLOW
-          ["#268bd2", "#268bd2"], # 4 BLUE
-          ["#d33682", "#d33682"], # 5 MAGENTA
-          ["#2aa198", "#2aa198"], # 6 CYAN
-          ["#eee8d5", "#eee8d5"], # 7 FG
+colors = [["#282a36", "#282a36"], # 0 BG
+          ["#ff5555", "#ff5555"], # 1 RED
+          ["#50fa7b", "#50fa7b"], # 2 GREEN
+          ["#f1fa8c", "#f1fa8c"], # 3 YELLOW
+          ["#bd93f9", "#bd93f9"], # 4 BLUE
+          ["#ff79c6", "#ff79c6"], # 5 MAGENTA
+          ["#8be9fd", "#8be9fd"], # 6 CYAN
+          ["#f8f8f2", "#f8f8f2"], # 7 FG
           ["#839496", "#839496"], # 8 SHADE-1
           ["#c5c8c6", "#c5c8c6"]] # 9 SHADE-2
 
