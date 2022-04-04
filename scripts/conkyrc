@@ -78,7 +78,7 @@ conky.config = {
 	own_window_argb_value = 255,			 	-- real transparency - composite manager required 0-255
 	own_window_argb_visual = true,			-- use ARGB - composite manager required
 	own_window_class = 'Conky',					-- manually set the WM_CLASS name for use with xprop
-	own_window_colour = '#002b36',			-- set colour if own_window_transparent no
+	own_window_colour = '#282a36',			-- set colour if own_window_transparent no
 	own_window_hints = 'undecorated,below,above,sticky,skip_taskbar,skip_pager',
 	own_window_transparent = false,			-- if own_window_argb_visual is true sets background opacity 0%
 	own_window_title = 'qtile_conky',		-- set the name manually  - default conky "hostname"
@@ -86,10 +86,10 @@ conky.config = {
 
 
 	--Colors (Dracula)
-    color0 = '#d33682',
+    color0 = '#ff79c6',
     color1 = '#839496',
-    color2 = '#eee8d5',
-    color3 = '#2aa198',
+    color2 = '#50fa7b',
+    color3 = '#8be9fd',
 
 };
 
