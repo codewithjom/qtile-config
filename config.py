@@ -94,8 +94,8 @@ dgroups_key_binder = simple_key_binder("mod4")
 
 layout_theme = {"border_width": 2,
                 "margin": 15,
-                "border_focus": "bbc2cf",
-                "border_normal": "282c34"
+                "border_focus": "ebdbb2",
+                "border_normal": "282828"
                 }
 
 layouts = [
@@ -105,14 +105,14 @@ layouts = [
     layout.Floating(**layout_theme)
 ]
 
-colors = [["#282c34", "#282c34"], # 0 BG
-          ["#ff6c6b", "#da8548"], # 1 RED
-          ["#98be65", "#4db5bd"], # 2 GREEN
-          ["#da8548", "#ecbe7b"], # 3 YELLOW
-          ["#51afef", "#3071db"], # 4 BLUE
-          ["#c678dd", "#a9a1e1"], # 5 MAGENTA
-          ["#5699af", "#46d9ff"], # 6 CYAN
-          ["#bbc2cf", "#dfdfdf"], # 7 FG
+colors = [["#282828", "#282828"], # 0 BG
+          ["#cc241d", "#fb4934"], # 1 RED
+          ["#98971a", "#b8bb26"], # 2 GREEN
+          ["#d79921", "#fabd2f"], # 3 YELLOW
+          ["#458588", "#83a598"], # 4 BLUE
+          ["#b16286", "#d3869b"], # 5 MAGENTA
+          ["#689d6a", "#8ec07c"], # 6 CYAN
+          ["#a89984", "#ebdbb2"], # 7 FG
           ["#839496", "#839496"], # 8 SHADE-1
           ["#c5c8c6", "#c5c8c6"]] # 9 SHADE-2
 
