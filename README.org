@@ -1,6 +1,8 @@
 #+TITLE: Qtile Config
 #+PROPERTY: header-args :tangle config.py
 
+[[https://raw.githubusercontent.com/codewithjom/qtile-config/master/scripts/qtile-screenshot.jpg]]
+
 * About This Config
 
 The following comments are the copyright and licensing information from the default
